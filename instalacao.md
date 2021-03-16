@@ -1,34 +1,37 @@
 # Instalação
 
+## Debian
 
-
-#### Instalação
-
-**Debian**
-
-```text
+```shell
 sudo apt update && apt install git-all
 ```
 
-**Fedora**
+## Fedora
 
-```text
+### Versões mais novas
+
+```shell
 sudo dnf install git
 ```
 
-```text
+### Versões mais antigas
+
+```shell
 yum install git
 ```
 
-**Manjaro**
+### Manjaro
 
-```text
+```shell
 pacman -S git
 ```
 
-**OSX**
+### OSX
 
-```text
+```shell
 brew install git
 ```
 
+### Windows
+
+https://git-scm.com/download/win
