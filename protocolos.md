@@ -1,9 +1,8 @@
 # Protocolos
 
-#### Protocolos
-
 * HTTPS
-* SSH\(Recomendado\)
+* SSH (Recomendado)
+* git
 
 Muitas organizações bloqueiam HTTPs, só permitem SSH
 
