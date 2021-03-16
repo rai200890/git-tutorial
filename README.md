@@ -1,2 +1,2 @@
-# Git Básico
+# Initial page
 
