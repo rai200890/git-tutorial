@@ -1,4 +1,4 @@
-# Adicionando mudanças
+# Adicionando arquivos
 
 ## Como funciona
 

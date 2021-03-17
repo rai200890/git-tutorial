@@ -2,20 +2,30 @@
 
 ### Cria diretório com novo projeto
 
-```text
+```shell
 mkdir nazare_tedesco
 ```
 
 ### Inicia repositório git
 
-```text
+```shell
 git init
 ```
 
 ### Adiciona repositório remoto para recuperar/enviar mudanças
 
-```text
+```shell
 git remote add origin git@github.com:rai200890/nazare_tedesco.git
 ```
 
-### Vis
+### Visualizando repositórios remotos
+
+```shell
+git remote -v
+```
+
+### Removendo repositório remoto
+
+```shell
+git remote rm origin
+```

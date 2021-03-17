@@ -1,4 +1,4 @@
-# Verificando mudanças
+# Visualizando área de staging
 
 ## Comando
 
