@@ -41,4 +41,4 @@ git commit -m "feat: Add first commit"
 
 1. Modificamos arquivos na nossa área de trabalho.
 2. Adicionamos todos o conteúdo passado como parâmetro do comando `git add` a área de staging, preparando-os para o próximo **commit**.
-3. Registramos mudanças inclusas na área de staging ao repositório git local com o comando `git commit`.
+3. Faz um **commit** com as mudanças adicionadas a área de staging com o comando `git commit`
