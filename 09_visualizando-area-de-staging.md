@@ -33,11 +33,20 @@ Untracked files:
 ## Visualiza diferença de conteúdo entre arquivos
 
 ```shell
-git diff
+git diff [commit]
 ```
 
 - Comando usado para visualizar mudanças de arquivos entre commits e/ou área de staging 
 
 ```
-
+diff --git a/hello.txt b/hello.txt
+index bf93fe6..6e3740d 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -1 +1,2 @@
+-Oi!!!
+\ No newline at end of file
++Oi!!!
++Tudo certo?
+\ No newline at end of file
 ```

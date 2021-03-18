@@ -12,6 +12,13 @@ git pull
 git pull origin master 
 ```
 
+equivalente a:
+
+```shell
+git fetch origin master
+git merge origin/master
+```
+
 ### Como funciona
 
 Antes do pull:
