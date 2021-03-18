@@ -22,5 +22,5 @@
 20. [Trabalhando com tags](19_trabalhando-com-tags.md)
 21. [Modificando histórico](19_modificando-histórico.md)
 22. [Referências](22_referencias.md)
-23. [Cursos](cursos.md)
-24. [Links úteis](links-uteis.md)
+23. [Cursos](23_cursos.md)
+24. [Links úteis](24_links-uteis.md)
