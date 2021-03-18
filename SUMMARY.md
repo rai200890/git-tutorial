@@ -4,7 +4,7 @@
 2. [Git](02_git.md)
 3. [Instalação](03_instalacao.md)
 4. [Configuração](04_configuracao.md)
-5. [Protocolos](05_gerando-chave-ssh.md)
+5. [Gerando chave ssh](05_gerando-chave-ssh.md)
 6. [Criando um novo projeto](06_criando-um-novo-projeto.md)
 7. [Trabalhando em repositório existente](07_trabalhando-em-repositorio-existente.md)
 8. [Adicionando arquivos](08_adicionando-arquivos.md)
