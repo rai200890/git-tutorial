@@ -13,4 +13,4 @@
 - **Git**
 
 
-![Alt text](https://image.slidesharecdn.com/git-vs-svn-140226180401-phpapp02/95/git-vs-svn-5-638.jpg?cb=1393437906)
+![Git vs SVN](https://image.slidesharecdn.com/git-vs-svn-140226180401-phpapp02/95/git-vs-svn-5-638.jpg?cb=1393437906)
