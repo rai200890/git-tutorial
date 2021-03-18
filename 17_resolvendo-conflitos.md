@@ -2,8 +2,6 @@
 
 ## Exemplo de arquivo em conflito
 
-### Arquivo em conflito
-
 ### Arquivo no repositório local
 
 ```html
@@ -27,6 +25,8 @@
   </body>
 </html>
 ```
+
+### Arquivo em conflito
 
 ```html
 <html>

@@ -1,8 +1,8 @@
 # Modificando histórico
 
-- Uma commit no repositório local pode ser alterado  
-- Uma commit já sincronizado no repositório remoto pode ser alterado.
-- Esse tipo de mudança tem que ser feita com cuidado pois pode ocasionar perda de código.
+- Uma **commit** no repositório local pode ser alterado  
+- Uma **commit** já sincronizado no repositório remoto pode ser alterado.
+- Esse tipo de mudança tem que ser feita com cuidado pois pode ocasionar **perda de código**.
 
 ## Modificando último commit
 
@@ -10,8 +10,8 @@
 git commit --amend
 ```
 
-É possível adicionar mudanças na área de staging ao **último** commit existente e editar sua mensage,.
-O commit antigo desaparecerá e será subtituido por um novo **commit**, com uma nova referência.
+É possível adicionar mudanças na área de staging ao **último commit** existente e editar sua mensagem.
+O **commit** antigo desaparecerá e será subtituido por um novo **commit**, com uma nova referência.
 
 ## Modificando commits na branch corrente
 
@@ -19,7 +19,7 @@ O commit antigo desaparecerá e será subtituido por um novo **commit**, com uma
 git rebase -i HEAD~5
 ```
 
-Permite remover(delete), juntar(squash) e renomear mensagens(reword) referentes aos últimos 5 commit antes do ponteiro HEAD.
+Permite remover(**delete**), juntar(**squash**) e renomear mensagens(**reword**) referentes aos últimos 5 commit antes do ponteiro **HEAD**.
 
 ### Exemplo:
 

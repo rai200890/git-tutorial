@@ -4,6 +4,8 @@
 
 - Git: https://pt.wikipedia.org/wiki/Git
 
+- Conectar-se ao GitHub com SSH: https://docs.github.com/pt/github/authenticating-to-github/connecting-to-github-with-ssh
+
 - Pro Git: https://git-scm.com/book/en/v2
 
 - Git Glossary: https://git-scm.com/docs/gitglossary

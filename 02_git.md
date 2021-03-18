@@ -1,10 +1,11 @@
 ## O que é o Git?
 
-- Sistema de controle de versões distribuído
-- Pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+- Sistema de controle de versões distribuído lançado em 2005.
+- Pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo, não só código.
 - Inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux.
+- Motivação foi perda de direito de uso de ferramenta proprietária onde o código do kernel estava hospedado.
 
-### Protocolos suportados pelo GIt
+### Protocolos suportados pelo Git
 
 * HTTPS
 * SSH (Recomendado)
