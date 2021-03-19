@@ -4,6 +4,14 @@
 - Uma **commit** já sincronizado no repositório remoto pode ser alterado.
 - Esse tipo de mudança tem que ser feita com cuidado pois pode ocasionar **perda de código**.
 
+## Adicionando commits
+
+```shell
+git cherry-pick 1b92c8d2a6adc02bbbba0bcb063ea76d4445ac80
+```
+
+Adiciona o **commit 1b92c8d2a6adc02bbbba0bcb063ea76d4445ac80** a sua **branch** corrente
+
 ## Modificando último commit
 
 ```shell
